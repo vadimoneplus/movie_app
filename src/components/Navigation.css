@@ -1,0 +1,21 @@
+.navigation{
+   display: flex;
+   justify-content: start;
+   gap: 30px;
+  
+  align-items: center;
+  
+  height: 100px;
+  width: 100%;
+  font-weight: 300;
+  font-size: larger;
+padding: 20px;
+border-radius: 5px;
+color:#adaeb9;
+box-shadow: 0 13px 27px -5px rgb(50, 50, 93, 0.25),0 8px 16px -8px rgb(0,0,0,0.3),0 -6px 16px -6px rgb(0,0,0,0.025);
+}
+
+.navigation a {
+text-decoration: none;
+color: black;
+}
